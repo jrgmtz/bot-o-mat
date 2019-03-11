@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Robot.cpp
+c:\users\jorge\desktop\bot-o-mat\bot-o-mat\robot.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jorge\desktop\bot-o-mat\bot-o-mat\robot.cpp(22): warning C4101: 'taskSelected': unreferenced local variable
+c:\users\jorge\desktop\bot-o-mat\bot-o-mat\robot.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bot-O-Mat.cpp
+  Generating Code...
+  Bot-O-Mat.vcxproj -> C:\Users\Jorge\Desktop\Bot-O-Mat\Debug\Bot-O-Mat.exe
